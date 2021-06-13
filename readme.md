@@ -1,9 +1,9 @@
 # @Syl20pro in brief
 
-|                                                                      |                                                                                                                                                                                                                                                                                                               |
-| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![profil](https://avatars.githubusercontent.com/u/44305327?s=60&v=4) | Hi, there                                                                                                                                                                                                                                                                                                     |
-|                                                                      | I'm Sylvain, part-time **wordpress developer, content creator** freelance and also full-time **project manager**. Ex manager of socials housing real estate in sensitives areas of Paris area (France). <br> Visionary, I like to have a global view of elements to bring solutions that exceed expectations. |
+|                                                                      |                                                                                                                                                                                                                                                                                                                                 |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![profil](https://avatars.githubusercontent.com/u/44305327?s=60&v=4) | Hi, there                                                                                                                                                                                                                                                                                                                       |
+|                                                                      | I'm Sylvain. I'm simple man part-time **developer craftmanship, content creator** freelance and also full-time **project manager**. Ex manager of socials housing real estate in sensitives areas of Paris area (France). <br> Visionary, I like to have a global view of elements to bring solutions that exceed expectations. |
 
 ## <u>Contact</u>
 
@@ -15,14 +15,10 @@
 
 ## <u>Some work tools</u>
 
-HTML, CSS, VBA,  
-Bootstrap,
-MySQL,
-Sass, NPM
-VS Code, GitHub,  
-Wordpress,  
-Office 365 : Excel, Word, Power Point, Project, Sharepoint,  
-Jira, Notion, Figma, Google Analytics,  
+HTML, CSS, VBA, MySQL,  
+Wordpress, Bootstrap, Sass, NPM, GitHub,  
+Office 365 : Excel, Word, Power Point, Project, Sharepoint...  
+Jira, Notion, Figma, Google Analytics...  
 IKOS (_Sopra Steria_), PIH (_Aareon_)
 
 > It's true ! I'm a real swissknife homemade
@@ -30,7 +26,7 @@ IKOS (_Sopra Steria_), PIH (_Aareon_)
 ## <u>What i'm learning now</u>
 
 - with Youtube : _JS > Vue > PHP > SysAdmin_
-- with OpenClassrooms : _UML > LDAP > ITIL > GLPI_
+- with OpenClassrooms : _UML > LDAP > ITIL_
 - with Microsoft Learn : _Microsoft 365 > Power BI_
 
 > It may be too much, but I like to learn and I make time for that. I am a perpetual student.
