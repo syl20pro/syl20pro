@@ -1,19 +1,19 @@
 # @Syl20pro in brief
 
-|                                                                      |                                                                                                                                                                                                                                                                                                                                 |
-| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![profil](https://avatars.githubusercontent.com/u/44305327?s=60&v=4) | Hi, there                                                                                                                                                                                                                                                                                                                       |
-|                                                                      | I'm Sylvain. I'm simple man part-time **developer craftmanship, content creator** freelance and also full-time **project manager**. Ex manager of socials housing real estate in sensitives areas of Paris area (France). <br> Visionary, I like to have a global view of elements to bring solutions that exceed expectations. |
+|                                                                      |                                                                                                                                                                                                                                                                                                                                       |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![profil](https://avatars.githubusercontent.com/u/44305327?s=60&v=4) | Hi, there                                                                                                                                                                                                                                                                                                                             |
+|                                                                      | I'm Sylvain. I'm simple man 😎 part-time **developer craftmanship, content manager** freelance and also full-time **project manager**. Ex manager of socials housing real estate in sensitives areas of Paris area (France). <br> Visionary, I like to have a global view of elements to bring solutions that exceed expectations. 🚀 |
 
-## <u>Contact</u>
+## 📱Contact
 
-| My freelancer website                            |                 My blog                  | My Social Media profiles                                                                                                                                                                          |
-| ------------------------------------------------ | :--------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [sylvaingemieux.com](https://sylvaingemieux.com) | [blog.syl20.pro](https://blog.syl20.pro) | Instagram : [@syl20pro](https://www.instagram.com/syl20pro/)<br>Twitter : [@syl20pro](https://twitter.com/syl20pro)<br>LinkedIn : [Sylvain Gemieux](https://www.linkedin.com/in/sylvain-gemieux/) |
+| My freelancer website                            |                 My blog                  | My Social Media profiles                                                                                                                                                                    |
+| ------------------------------------------------ | :--------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [sylvaingemieux.com](https://sylvaingemieux.com) | [blog.syl20.pro](https://blog.syl20.pro) | Instagram : [@syl20pro](https://www.instagram.com/syl20pro/) Twitter : [@syl20pro](https://twitter.com/syl20pro) LinkedIn : [Sylvain Gemieux](https://www.linkedin.com/in/sylvain-gemieux/) |
 
 > If you want to send me a message that's great. But please note that I do not respond to copy and paste messages
 
-## <u>Some work tools</u>
+## 🧰Some work tools
 
 HTML, CSS, VBA, MySQL,  
 Wordpress, Bootstrap, Sass, NPM, GitHub,  
@@ -23,7 +23,7 @@ IKOS (_Sopra Steria_), PIH (_Aareon_)
 
 > It's true ! I'm a real swissknife homemade
 
-## <u>What i'm learning now</u>
+## 👨‍🎓What i'm learning now
 
 - with Youtube : _JS > Vue > PHP > SysAdmin_
 - with OpenClassrooms : _UML > LDAP > ITIL_
@@ -31,7 +31,7 @@ IKOS (_Sopra Steria_), PIH (_Aareon_)
 
 > It may be too much, but I like to learn and I make time for that. I am a perpetual student.
 
-## <u>My current readings</u>
+## 📚My current readings
 
 - **La Bible. Traduction du monde nouveau** : Ecritures grecques chrétiennes  
   available for free in many languages on [jw.org](https://jw.org)
