@@ -7,7 +7,7 @@
 
 ## 📱Contact
 
-| My freelancer website                            |                 My blog                  | My Social Media profiles                                                                                                                                                                    |
+| My freelance services                            |                 My blog                  | My social media profiles                                                                                                                                                                    |
 | ------------------------------------------------ | :--------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [sylvaingemieux.com](https://sylvaingemieux.com) | [blog.syl20.pro](https://blog.syl20.pro) | Instagram : [@syl20pro](https://www.instagram.com/syl20pro/) Twitter : [@syl20pro](https://twitter.com/syl20pro) LinkedIn : [Sylvain Gemieux](https://www.linkedin.com/in/sylvain-gemieux/) |
 
