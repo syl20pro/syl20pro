@@ -33,8 +33,8 @@ IKOS (_Sopra Steria_), PIH (_Aareon_)
 
 ## 📚My current readings
 
-- **La Bible. Traduction du monde nouveau** : Ecritures grecques chrétiennes  
-  available for free in many languages on [jw.org](https://jw.org)
+- **La Bible. Traduction du monde nouveau**  
+  available for free in so many languages on [jw.org](https://jw.org)
 - **Les innovateurs** of _Walter Isaacson_  
   available in some good bookshops or check on Amazon
 - **Le cycle des robots 5** of _Isaac Asimov_  
