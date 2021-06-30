@@ -25,8 +25,8 @@ IKOS (_Sopra Steria_), PIH (_Aareon_)
 
 ## 👨‍🎓What i'm learning now
 
-- with Youtube : _JS > Vue > PHP > Windows Server_
-- with OpenClassrooms : _UML > LDAP > ITIL_
+- with Youtube : _JS > Vue > PHP_
+- with OpenClassrooms : _UML > ITIL_
 - with Microsoft Learn : _Power BI_
 
 > It may be too much, but I like to learn and I make time for that. I am a perpetual student.
