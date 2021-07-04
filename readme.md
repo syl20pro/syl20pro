@@ -1,9 +1,9 @@
 # @Syl20pro in brief
 
-|                                                                      |                                                                                                                                                                                                                                                                                                                                       |
-| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![profil](https://avatars.githubusercontent.com/u/44305327?s=60&v=4) | Hi, there                                                                                                                                                                                                                                                                                                                             |
-|                                                                      | I'm Sylvain. I'm a cool man 😎 part-time **developer craftmanship, content manager** freelance and also full-time **project manager**. Ex manager of socials housing real estate in sensitives areas of Paris area (France). <br> Visionary, I like to have a global view of elements to bring solutions that exceed expectations. 🚀 |
+|                                                                      |                                                                                                                                                                                                                                                                                                                                            |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![profil](https://avatars.githubusercontent.com/u/44305327?s=60&v=4) | Hi, there                                                                                                                                                                                                                                                                                                                                  |
+|                                                                      | I'm Sylvain. I'm a cool man 😎 part-time **developer craftmanship, content manager** freelance and also full-time **project manager**. I'm a Exmanager of socials housing real estate in sensitives areas of Paris area (France). <br> Visionary, I like to have a global view of elements to bring solutions that exceed expectations. 🚀 |
 
 ## 📱Contact
 
@@ -21,7 +21,7 @@ Jira, Notion, Figma, Google Analytics...
 Office 365 : Excel, Word, Power Point, Project, Sharepoint...  
 IKOS (_Sopra Steria_), PIH (_Aareon_)
 
-> It's true ! I'm a real swissknife homemade
+> I'm a real swissknife homemade not a expert
 
 ## 👨‍🎓What i'm learning now
 
@@ -29,7 +29,7 @@ IKOS (_Sopra Steria_), PIH (_Aareon_)
 - with OpenClassrooms : _UML > ITIL_
 - with Microsoft Learn : _Power BI_
 
-> It may be too much, but I like to learn and I make time for that. I am a perpetual student.
+> It may be too much, but I like to learn and in this life I'm a perpetual student.
 
 ## 📚My current readings
 
@@ -40,4 +40,4 @@ IKOS (_Sopra Steria_), PIH (_Aareon_)
 - **Le cycle des robots 5** of _Isaac Asimov_  
   contact your favorite bookshop or watch on Amazon
 
-> I try to read 10 pages by day and you ?
+> And you what did you read at this time ?
