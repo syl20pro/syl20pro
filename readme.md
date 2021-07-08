@@ -17,7 +17,7 @@
 
 HTML, CSS, VBA, MySQL, MongoDB  
 Wordpress, Bootstrap, Sass, NPM, GitHub,  
-Jira, Notion, Figma, Google Analytics...  
+Jira, Notion, ![Figma](https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg), Google Analytics...  
 Office 365 : Excel, Word, Power Point, Project, Sharepoint...  
 IKOS (_Sopra Steria_), PIH (_Aareon_)
 
@@ -25,7 +25,7 @@ IKOS (_Sopra Steria_), PIH (_Aareon_)
 
 ## 👨‍🎓What i'm learning now
 
-- with Youtube : _JS > Vue > PHP_
+- with Youtube : _JS > Vue_
 - with OpenClassrooms : _UML > ITIL_
 - with Microsoft Learn : _Power BI_
 
