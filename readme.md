@@ -13,6 +13,14 @@
 
 > If you want to send me a message that's great. But please note that I do not respond to copy and paste messages
 
+## 📊Status of my currents projects
+
+|         | Ideas                                          | To do                   | In progress          | Done                      |
+| ------- | ---------------------------------------------- | ----------------------- | -------------------- | ------------------------- |
+| Easy    | web : my personal portfolio                    |                         | web : Github profile | web : JW conversations v1 |
+| Medium  | web : JW conversations v2 API JW conversations | PWA : 52 equity watcher |                      |                           |
+| Complex | web : Equity Dashboard                         |                         |                      |                           |
+
 ## 🧰Some work tools
 
 HTML, CSS, VBA, MySQL, MongoDB...  
