@@ -7,31 +7,35 @@
 
 ## 📱Contact
 
-| My freelance services                            |                 My blog                  | My social media profiles                                                                                                                                                                    |
-| ------------------------------------------------ | :--------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [sylvaingemieux.com](https://sylvaingemieux.com) | [blog.syl20.pro](https://blog.syl20.pro) | Instagram : [@syl20pro](https://www.instagram.com/syl20pro/) Twitter : [@syl20pro](https://twitter.com/syl20pro) LinkedIn : [Sylvain Gemieux](https://www.linkedin.com/in/sylvain-gemieux/) |
+| My freelance services                            |                 My blog                  | My social media profiles                                                                                                                                                                                                                   |
+| ------------------------------------------------ | :--------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [sylvaingemieux.com](https://sylvaingemieux.com) | [blog.syl20.pro](https://blog.syl20.pro) | Instagram : [@syl20pro](https://www.instagram.com/syl20pro/) Twitter : ![Twitter @syl20pro Follow](https://img.shields.io/twitter/follow/syl20pro?style=social) LinkedIn : [Sylvain Gemieux](https://www.linkedin.com/in/sylvain-gemieux/) |
 
 > If you want to send me a message that's great. But please note that I do not respond to copy and paste messages
 
 ## 📊Status of my currents projects
 
-|         | Ideas                                          | To do                   | In progress          | Done                      |
-| ------- | ---------------------------------------------- | ----------------------- | -------------------- | ------------------------- |
-| Easy    | web : my personal portfolio                    |                         | web : Github profile | web : JW conversations v1 |
-| Medium  | web : JW conversations v2 API JW conversations | PWA : 52 equity watcher |                      |                           |
-| Complex | web : Equity Dashboard                         |                         |                      |                           |
+|         | Ideas                                          | To do                   | In progress | Done                                           |
+| ------- | ---------------------------------------------- | ----------------------- | ----------- | ---------------------------------------------- |
+| Easy    | web : my personal portfolio                    |                         |             | web : JW conversations v1 web : Github profile |
+| Medium  | web : JW conversations v2 API JW conversations | PWA : 52 equity watcher |             |                                                |
+| Complex | web : Equity Dashboard                         |                         |             |                                                |
 
 ## 🧰Some work tools
 
-[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=syl20pro)](https://github.com/syl20pro/github-readme-stats&show_icons=true&theme=dark)
+|                                                                                                                                                                                           |                                                                                                                                                         |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=syl20pro&show_icons=true&theme=vision-friendly-dark)](https://github.com/syl20pro/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syl20pro&layout=compact)](https://github.com/syl20pro/github-readme-stats) |
+|  |
 
-HTML, CSS, VBA, MySQL, MongoDB...  
-Wordpress, Bootstrap, Sass, NPM, GitHub...  
-Jira, Notion, Figma, Google Analytics...  
-Office 365 : Excel, Word, Power Point, Project, Sharepoint...  
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![javascript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) ![NodeJS](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white) ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white) ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![PHP](https://img.shields.io/badge/-php-474a8a?style=flat-square&logo=php&logoColor=white)
+![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-blue?style=flat-square&logo=.net&logoColor=white) ![Python](https://img.shields.io/badge/-python-306998?style=flat-square&logo=python&logoColor=FFD43B) ![MySQL](https://img.shields.io/badge/-mySQL-00758F?style=flat-square&logo=mysql&logoColor=F29111) ![MongoDB](https://img.shields.io/badge/-mongoDB-3FA037?style=flat-square&logo=mongodb&logoColor=3F3E42) ![WordPress](https://img.shields.io/badge/-WordPress-00749C?style=flat-square&logo=wordpress&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-602C50?style=flat-square&logo=bootstrap&logoColor=white)  
+![Jira](https://img.shields.io/badge/-Jira-blue?style=flat-square&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma&logoColor=red) ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-white?style=flat-square&logo=googleanalytics&logoColor=orange)  
+![Office 365](https://img.shields.io/badge/-Office%20365-white?style=flat-square&logo=microsoft&logoColor=red) : Excel, Word, Power Point, Project, Sharepoint...  
 IKOS (_Sopra Steria_), PIH (_Aareon_)
 
-> I'm a real swissknife homemade not a expert
+> I'm just a swissknife homemade not a expert
 
 ## 👨‍🎓What i'm learning now
 
