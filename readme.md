@@ -39,11 +39,11 @@ IKOS (_Sopra Steria_), PIH (_Aareon_)
 
 ## 📚My current readings
 
-- **La Bible. Traduction du monde nouveau**  
-  available for free in so many languages on [jw.org](https://jw.org)
-- **Les innovateurs** of _Walter Isaacson_  
-  available in some good bookshops or check on Amazon
-- **Le cycle des robots 5** of _Isaac Asimov_  
-  contact your favorite bookshop or watch on Amazon
+- **New World Translation of the Holy Scriptures**  
+  available for free in so many languages on [jw.org](https://www.jw.org/fr/biblioth%C3%A8que/bible/)
+- **The innovators** of _Walter Isaacson_  
+  available in some good bookshops or check on [Amazon](https://amzn.to/3hPC95d)
+- **Robot series - The robots of Dawn** of _Isaac Asimov_  
+  contact your favorite bookshop or watch on [Amazon](https://amzn.to/2UpgibS)
 
 > And you what did you read at this time ?
