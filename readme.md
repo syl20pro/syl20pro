@@ -7,26 +7,18 @@
 
 ## 📱Contact
 
-| My freelance services                            |                 My blog                  | My social media profiles                                                                                                                                                                                                                   |
-| ------------------------------------------------ | :--------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [sylvaingemieux.com](https://sylvaingemieux.com) | [blog.syl20.pro](https://blog.syl20.pro) | Instagram : [@syl20pro](https://www.instagram.com/syl20pro/) Twitter : ![Twitter @syl20pro Follow](https://img.shields.io/twitter/follow/syl20pro?style=social) LinkedIn : [Sylvain Gemieux](https://www.linkedin.com/in/sylvain-gemieux/) |
+| My freelance services                            |                 My blog                  | My social media profiles                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| ------------------------------------------------ | :--------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [sylvaingemieux.com](https://sylvaingemieux.com) | [blog.syl20.pro](https://blog.syl20.pro) | [![instagram syl20pro profile](https://img.shields.io/badge/-Instagram-C62828?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/syl20pro/) [![Twitter syl20pro profile](https://img.shields.io/badge/-twitter-1E88E5?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/syl20pro) [![LinkedIn sylvain gemieux profile](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sylvain-gemieux/) |
 
 > If you want to send me a message that's great. But please note that I do not respond to copy and paste messages
-
-## 📊Status of my currents projects
-
-|         | Ideas                                          | To do                   | In progress | Done                                           |
-| ------- | ---------------------------------------------- | ----------------------- | ----------- | ---------------------------------------------- |
-| Easy    | web : my personal portfolio                    |                         |             | web : JW conversations v1 web : Github profile |
-| Medium  | web : JW conversations v2 API JW conversations | PWA : 52 equity watcher |             |                                                |
-| Complex | web : Equity Dashboard                         |                         |             |                                                |
 
 ## 🧰Some work tools
 
 |                                                                                                                                                                                           |                                                                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=syl20pro&show_icons=true&theme=vision-friendly-dark)](https://github.com/syl20pro/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syl20pro&layout=compact)](https://github.com/syl20pro/github-readme-stats) |
-|  |
+|                                                                                                                                                                                           |
 
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![javascript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) ![NodeJS](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white) ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white) ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
 ![PHP](https://img.shields.io/badge/-php-474a8a?style=flat-square&logo=php&logoColor=white)
