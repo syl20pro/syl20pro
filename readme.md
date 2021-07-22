@@ -4,9 +4,9 @@ Hi, there I'm Sylvain. a cool man 😎 part-time **developer craftmanship, conte
 
 ## 📱Contact
 
-| My freelance services                            |                 My blog                  | My social media profiles                                                                                                                                                                                                                   |
-| ------------------------------------------------ | :--------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [sylvaingemieux.com](https://sylvaingemieux.com) | [blog.syl20.pro](https://blog.syl20.pro) | Instagram : [@syl20pro](https://www.instagram.com/syl20pro/) Twitter : ![Twitter @syl20pro Follow](https://img.shields.io/twitter/follow/syl20pro?style=social) LinkedIn : [Sylvain Gemieux](https://www.linkedin.com/in/sylvain-gemieux/) |
+| My freelance services                            |                 My blog                  | My social media profiles                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| ------------------------------------------------ | :--------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [sylvaingemieux.com](https://sylvaingemieux.com) | [blog.syl20.pro](https://blog.syl20.pro) | [![instagram syl20pro profile](https://img.shields.io/badge/-Instagram-C62828?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/syl20pro/) [![Twitter syl20pro profile](https://img.shields.io/badge/-twitter-1E88E5?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/syl20pro) [![LinkedIn sylvain gemieux profile](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sylvain-gemieux/) |
 
 > If you want to send me a message that's great. But please note that I do not respond to copy and paste messages
 
@@ -35,11 +35,11 @@ PIH (_Aareon_)
 
 ## 📚My current readings
 
-- **La Bible. Traduction du monde nouveau**  
-  available for free in so many languages on [jw.org](https://jw.org)
-- **Les innovateurs** of _Walter Isaacson_  
-  available in some good bookshops or check on Amazon
-- **Le cycle des robots 5** of _Isaac Asimov_  
-  contact your favorite bookshop or watch on Amazon
+- **New World Translation of the Holy Scriptures**  
+  available for free in so many languages on [jw.org](https://www.jw.org/fr/biblioth%C3%A8que/bible/)
+- **The innovators** of _Walter Isaacson_  
+  available in some good bookshops or check on [Amazon](https://amzn.to/3hPC95d)
+- **Robot series - The robots of Dawn** of _Isaac Asimov_  
+  contact your favorite bookshop or watch on [Amazon](https://amzn.to/2UpgibS)
 
 > And you what did you read at this time ?
