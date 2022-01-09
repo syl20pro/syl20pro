@@ -12,12 +12,13 @@ Hi, there I'm Sylvain. a cool **project manager** 😎 part-time **developer cra
 
 ## 🧰Some work tools
 
-![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-602C50?style=flat-square&logo=bootstrap&logoColor=white)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syl20pro&layout=compact)](https://github.com/syl20pro/github-readme-stats)  
+ ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-602C50?style=flat-square&logo=bootstrap&logoColor=white)  
 Languages : ![PHP](https://img.shields.io/badge/-php-474a8a?style=flat-square&logo=php&logoColor=white)
 ![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-blue?style=flat-square&logo=.net&logoColor=white) ![Python](https://img.shields.io/badge/-python-306998?style=flat-square&logo=python&logoColor=FFD43B)  
 Databases : ![MySQL](https://img.shields.io/badge/-mySQL-00758F?style=flat-square&logo=mysql&logoColor=F29111) ![MongoDB](https://img.shields.io/badge/-mongoDB-3FA037?style=flat-square&logo=mongodb&logoColor=3F3E42)  
 Tools : ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-blue?style=flat-square&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma&logoColor=red) ![WordPress](https://img.shields.io/badge/-WordPress-00749C?style=flat-square&logo=wordpress&logoColor=white)  
-![Office 365](https://img.shields.io/badge/-Office%20365-white?style=flat-square&logo=microsoft&logoColor=red) : PowerBI, Project, Sharepoint... [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syl20pro&layout=compact)](https://github.com/syl20pro/github-readme-stats)
+![Office 365](https://img.shields.io/badge/-Office%20365-white?style=flat-square&logo=microsoft&logoColor=red) : PowerBI, Project, Sharepoint...
 
 > I'm just a swissknife homemade not a expert
 
