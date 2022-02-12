@@ -1,6 +1,6 @@
 # @Syl20pro in brief
 
-Hi, there I'm Sylvain. a cool **project manager** 😎 part-time **developer craftmanship, content manager**. I'm a Ex manager of socials housing real estate in sensitives areas of Paris area (France). <br> Product minded, I like to have a global view of elements to bring solutions that exceed expectations. 🚀
+Hi, there I'm Sylvain. a cool **project/product manager** 😎 with hobbies **software craftmanship and content creator**. I'm a Ex manager of socials housing real estate in sensitives areas of Paris area (France). <br> Product minded, I like to have a global view of elements to bring solutions that exceed expectations. 🚀
 
 ## 📱Contact
 
