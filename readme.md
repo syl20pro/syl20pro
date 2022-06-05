@@ -31,9 +31,11 @@ Tools : ![Jira](https://img.shields.io/badge/-Jira-blue?style=flat-square&logo=j
 
 ## 👨‍🎓What i'm learning now
 
+<<<<<<< HEAD
+
 - with Coursera : _Computer science_
 - with Youtube : _Python_
-- with OpenClassrooms : _UML_
+- with OpenClassrooms : _Databases fundamental_
 - with Microsoft Learn : _stand-by_
 
 > It may be too much, but I like to learn and in this life I'm a perpetual student.
